@@ -9,9 +9,10 @@ Some essential resources for your journey moving forward:
 
 Please move through the documents in this repository in the following order:
 1) Getting Started
-2) Slicer Configuration
-3) Pre-Flight Checks
-4) Maintenance / Tuning
-5) Modified STLs
+2) Klipper Config
+3) Slicer Configuration
+4) Pre-Flight Checks
+5) Maintenance / Tuning
+6) Modified STLs
 
 The above should be all you need to get up and running. I have tested the printer prior to listing it for sale and confirmed all is working as expected, so if you run into any bizarre issues, your best bet will be to reach out on the Voron Discord or subreddit!
