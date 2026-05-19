@@ -7,6 +7,6 @@ Modify your OrcaSlicer MACHINE START Gcode to the following:
 
 Modify your OrcaSlicer MACHINE END Gcode to the following:
 
-```PRINT_END```
+    PRINT_END
 
 Please continue to the next text file, "Pre-Flight Checks".
