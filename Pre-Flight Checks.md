@@ -7,3 +7,5 @@ Prior to running your first print, please ensure the following:
 
 You may notice on your first print that the lights on the same circuit as the printer flicker slightly while it is printing. This is expected behavior due to the type of power supply in use with Voron printers. 
 Vorondesigns has an article which covers tuning the power usage in order to minimize this effect: https://docs.vorondesign.com/community/troubleshooting/cat40/lights_flickering.html
+
+Please continue to the next text file, "Maintenance-Tuning".
