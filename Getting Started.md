@@ -26,5 +26,5 @@ The Raspberry Pi installed in this printer has the default password "raspberry".
 
 With the above steps complete, the printer is now fully ready to use on your network. You can upload prints to the printer and control its functions via the printer's web interface, or via web integration in your slicer of choice (for example, OrcaSlicer).
 
-Before continuing with your first print, please see the folder "Slicer Configuration".
+Please continue to the next text file, "Klipper Config".
 
