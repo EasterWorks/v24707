@@ -16,3 +16,5 @@ the specified temperature is hit, and will turn on again if the temperature begi
 
 In the "custom_cfg" folder, there is a homing override which causes the printer to home Y prior to X. It does this because the X/Y endstop pod has been relocated to the rear of the printer, so it has to home Y before X 
 can hit its endstop trigger. If you'd like to instead use sensorless homing, you can find out how to do that here: https://docs.vorondesign.com/tuning/sensorless.html
+
+Please continue to the next text file, "Slicer Configuration".
